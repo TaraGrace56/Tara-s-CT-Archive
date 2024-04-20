@@ -1,6 +1,3 @@
-### Important Notice
-_Please bare in mind that currently this archive is a work in progress. Not everything will be present here yet in terms of tracks but also information. You can find all my tracks on the [Wii](https://wiki.tockdom.com/wiki/User:Tara) and [Double Dash](https://mkdd.org/wiki/User:Tara) wikis in the mean time._
-
 # Desert Castle Raceway
 Desert Castle Raceway is a custom track created by lgmb. It is a long track placed in a desert. This starts in a stony castle, then it goes into a highway with cars and trucks up to a certain point. After that, there is a sandy part near the castle with some ramps, a lake, a bridge, and a part in the castle with a loop and many boost panels. A cloud then leads to a temple and the lap is finished after making a few more jumps. This is a major overhaul to the track credited by myself and Vrock02 which sees major visual changes and some minor gameplay tweaks. You can find a video showcase for v2.0 [here](https://www.youtube.com/watch?v=6MTjLLRgykI).
 ## Slot Requirements

@@ -1,2 +1,6 @@
-### Important Notice
-_Please bare in mind that currently this archive is a work in progress. Not everything will be present here yet in terms of tracks but also information. You can find all my tracks on the [Wii](https://wiki.tockdom.com/wiki/User:Tara) and [Double Dash](https://mkdd.org/wiki/User:Tara) wikis in the mean time._
+# Wii Mario Circuit
+This is an april fools remake of Wii Mario Circuit for Mario Kart Wii which takes place as a flat SNES Mario Circuit. You can find a video showcase [here](https://www.youtube.com/watch?v=wfdFmQUaqfc).
+## Slot Requirements
+There is no track slot requirements however it is recommended for the track to replace either Wii Mario Circuit (castle_course.szs), N64 Mario Raceway (old_mario_64.szs), GCN Mario Circuit (old_mario_gc.szs) or SNES Mario Circuit 3 (old_mario_sfc.szs).
+## Lap Count
+The track's lap count is set to 3.

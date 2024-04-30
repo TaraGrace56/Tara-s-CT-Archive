@@ -45,11 +45,33 @@ V1.0 was released on 04/10/2023 and was the first release.
 - Readjusted item box sets
 - Fixed bad bullet bill drops
 - Fixed position tracker issues at certain points of the track
-### V2.0.1 (Released: 07/01/2024) _Download can be found [here](https://drive.google.com/uc?id=1W1IvUq9v8TXgJJ14PEvawMgYjtS4PlvU&export=download)_
+### V2.0.1 (Released: 01/07/2024) _Download can be found [here](https://drive.google.com/uc?id=1W1IvUq9v8TXgJJ14PEvawMgYjtS4PlvU&export=download)_
 - Fixed more position tracker issues that reappeared at other parts of the track
 - Fixed multiple respawn shortcuts
 - Attempted to fix unwanted wall collision on the split path entry
 - Included an alternate version without a Mushroom icon for the ending shortcut
-### V2.0.2 (Released: 05/02/2024)
+### V2.0.2 (Released: 02/05/2024)
 - The ending shortcut now requires a mushroom permanently
 - Added an invisible wall on the left of the final ramp to minimise the chances of falling off due to being bumped
+### V2.1 (Released: 04/30/2024)
+- Added floating islands for:
+   - visual effects
+   - slippery road
+   - extra shortcuts
+- Added an octopus sphere
+- Added rotating sponsors
+- Added some thwomps
+- Added road borders and some depth
+- Added a varient in which the ending shortcut from V2.0 is permanently shroomless (requires a mushroom in the main version)
+- Added a visual indicator to show where:
+   - tricks are possible on the rainbow road elements
+   - the split path begins
+- Readjusted UV's on the startsign and the road
+- Readjusted the second split path route exit
+- Readjusted some walls
+- Readjusted other elements due to the changes above such as:
+   - Respawns
+   - Checkpoints
+   - Out of Bounds
+   - Enemy and Bullet Bill routes
+- Removed mushroom icon from ending shortcut permanently

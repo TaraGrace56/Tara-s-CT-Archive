@@ -1,5 +1,5 @@
 # Polychrome Path
-Polychrome Path is a custom track which takes on the concept 'What if Rainbow Road, typically the hardest track in a Mario Kart game, was designed for the Mushroom or Flower Cups.' v1.0 – v1.1.1 feature three hairpin turns to start, with jump ramps for tricks and a split path section to end the lap. However, v2.0 features a revised layout and visuals to create a more complete and interesting track whilst retaining the same concept. You can find a showcase for V2.0 [here](https://www.youtube.com/watch?v=tAdQ6FJ_5zQ&t=37s).
+Polychrome Path is a custom track which takes on the concept 'What if Rainbow Road, typically the hardest track in a Mario Kart game, was designed for the Mushroom or Flower Cups.' v1.0 – v1.1.1 feature three hairpin turns to start, with jump ramps for tricks and a split path section to end the lap. However, v2.0 features a revised layout and visuals to create a more complete and interesting track whilst retaining the same concept. You can find a showcase for V2.0 [here](https://youtu.be/iRD5ape1cnw). The track has now been discontinued since V2.1.1 to focus on other tracks and a potential remake in the future.
 ## Slot Requirements
 The track will work on every slot however it is recommended use Rainbow Road (rainbow_course.szs) due to the road and wall collision sound effects.
 ## Credits
@@ -75,3 +75,10 @@ V1.0 was released on 04/10/2023 and was the first release.
    - Out of Bounds
    - Enemy and Bullet Bill routes
 - Removed mushroom icon from ending shortcut permanently
+### V2.1.1 (Released: 06/06/2024)
+- Fixed unintentional:
+     - Shroom shortcut
+     - Shortcut that goes through a fall boundary without respawning you
+     - 2 respawn shortcuts
+- Fixed unwanted KCL at turns 2 and 3
+- Removed shroomless shortcut ver. as it is possible on the main version and now intentional
